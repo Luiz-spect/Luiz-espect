@@ -1,6 +1,6 @@
 # Boas Vindas 💯
 
-Me chamo Luiz Felipe
+Eu me chamo Luiz Felipe
 
 -Estou estudando no [Alura](https://www.alura.com.br)
 
@@ -12,6 +12,5 @@ Me chamo Luiz Felipe
 
 00001112130913sp@al.educacao.sp.gov.br
 
-@luizfelipe 
 
 ![]![image](https://github.com/Luiz-spect/Luiz-espect/assets/172086784/9dffe1b2-c2fd-4499-abed-8ac1fd142b0e)
